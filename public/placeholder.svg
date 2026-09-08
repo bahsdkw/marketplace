@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <rect width="400" height="400" fill="#E8F1F3"/>
+  <path d="M140 150h120v100H140z" fill="none" stroke="#94A3B8" stroke-width="6"/>
+  <circle cx="165" cy="175" r="10" fill="#94A3B8"/>
+  <path d="M140 230l40-40 30 30 50-50 40 40v20H140z" fill="#94A3B8"/>
+  <text x="200" y="290" font-family="sans-serif" font-size="14" fill="#64748B" text-anchor="middle">Нет изображения</text>
+</svg>
